@@ -1,2 +1,1 @@
-# Sicp-Solutions by Gaurav Sharma
-# Sicp-Solutions
+# Sicp Solutions
